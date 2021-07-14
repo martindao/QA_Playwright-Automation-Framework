@@ -27,3 +27,5 @@ def commit_callback(commit):
         ts = (new.strftime('%Y-%m-%d %H:%M:%S') + ' +0000').encode('utf-8')
         commit.author_date = ts
         commit.committer_date = ts
+
+# [2021-07-14] (Checkout) schedule note: Document Playwright coverage for Checkout

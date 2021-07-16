@@ -131,3 +131,5 @@ jobs:
         path: playwright-report/
         retention-days: 30
 ```
+
+- [2021-07-16] (Catalog) schedule note: Add Playwright regression scenario for Catalog

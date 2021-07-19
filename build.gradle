@@ -57,3 +57,5 @@ tasks.register('playwright', JavaExec) {
 }
 
 # [2021-07-16] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2021-07-19] (Login) schedule note: Add Playwright regression scenario for Login

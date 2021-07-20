@@ -34,3 +34,5 @@ public interface Configuration extends Config {
 
     boolean video();
 }
+
+# [2021-07-20] (Login) schedule note: Tighten Allure reporting around Login

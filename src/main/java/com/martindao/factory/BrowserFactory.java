@@ -39,3 +39,5 @@ public enum BrowserFactory {
 
     public abstract Browser createInstance(final Playwright playwright);
 }
+
+# [2021-07-21] (Checkout) schedule note: Document Playwright coverage for Checkout

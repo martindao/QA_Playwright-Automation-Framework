@@ -27,3 +27,5 @@ public final class BasePageFactory {
         throw new NullPointerException("Page class instantiation failed.");
     }
 }
+
+# [2021-07-21] (Login) schedule note: Add Playwright regression scenario for Login

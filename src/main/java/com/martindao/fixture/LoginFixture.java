@@ -20,3 +20,5 @@ public class LoginFixture extends BaseFixture {
     @Parsed(field = "Error Message", defaultNullRead = "")
     private String errorMessage;
 }
+
+# [2021-07-22] (Checkout) schedule note: Add Playwright regression scenario for Checkout

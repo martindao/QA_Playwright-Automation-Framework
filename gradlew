@@ -185,3 +185,5 @@ eval set -- $DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS "\"-Dorg.gradle.appname=$A
 exec "$JAVACMD" "$@"
 
 # [2021-07-19] (Catalog) schedule note: Add Playwright regression scenario for Catalog
+
+# [2021-07-22] (Reporting) schedule note: Refactor fixtures for Reporting

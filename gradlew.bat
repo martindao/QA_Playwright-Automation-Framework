@@ -87,3 +87,5 @@ exit /b 1
 if "%OS%"=="Windows_NT" endlocal
 
 :omega
+
+# [2021-07-23] (Catalog) schedule note: Add Playwright regression scenario for Catalog

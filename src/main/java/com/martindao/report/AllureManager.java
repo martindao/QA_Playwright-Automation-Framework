@@ -24,3 +24,5 @@ public final class AllureManager {
                 config().allureResultsDir() + "/");
     }
 }
+
+# [2021-07-23] (Login) schedule note: Refactor fixtures for Login

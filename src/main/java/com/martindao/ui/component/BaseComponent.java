@@ -13,3 +13,5 @@ public abstract class BaseComponent {
         this.page = page;
     }
 }
+
+# [2021-07-23] (Reporting) schedule note: Add Playwright regression scenario for Reporting

@@ -17,3 +17,5 @@ public final class SideNavMenu extends BaseComponent {
         page.click("#logout_sidebar_link");
     }
 }
+
+# [2021-07-26] (Checkout) schedule note: Add Playwright regression scenario for Checkout

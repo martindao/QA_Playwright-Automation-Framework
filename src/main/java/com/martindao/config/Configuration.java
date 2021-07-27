@@ -36,3 +36,5 @@ public interface Configuration extends Config {
 }
 
 # [2021-07-20] (Login) schedule note: Tighten Allure reporting around Login
+
+# [2021-07-27] (Login) schedule note: Document Playwright coverage for Login

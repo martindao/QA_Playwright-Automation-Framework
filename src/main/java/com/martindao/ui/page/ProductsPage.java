@@ -33,3 +33,5 @@ public final class ProductsPage extends BasePage {
         return BasePageFactory.createInstance(page, LoginPage.class);
     }
 }
+
+# [2021-07-27] (Login) schedule note: Document Playwright coverage for Login

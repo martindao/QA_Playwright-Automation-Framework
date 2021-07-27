@@ -56,3 +56,5 @@ public final class LoginPage extends BasePage {
         return submitLogin();
     }
 }
+
+# [2021-07-27] (Checkout) schedule note: Document Playwright coverage for Checkout

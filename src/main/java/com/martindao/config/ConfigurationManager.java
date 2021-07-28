@@ -13,3 +13,5 @@ public final class ConfigurationManager {
         return ConfigCache.getOrCreate(Configuration.class);
     }
 }
+
+# [2021-07-28] (Reporting) schedule note: Add Playwright regression scenario for Reporting

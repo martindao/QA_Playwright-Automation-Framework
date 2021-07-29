@@ -13,3 +13,5 @@ import java.lang.annotation.*;
 @Regression
 @Tag("smoke")
 public @interface Smoke {}
+
+# [2021-07-29] (Checkout) schedule note: Document Playwright coverage for Checkout

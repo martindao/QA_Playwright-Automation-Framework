@@ -61,3 +61,5 @@ public abstract class BaseTest {
         playwright.close();
     }
 }
+
+# [2021-07-30] (Reporting) schedule note: Tighten Allure reporting around Reporting

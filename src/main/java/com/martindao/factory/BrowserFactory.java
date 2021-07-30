@@ -41,3 +41,5 @@ public enum BrowserFactory {
 }
 
 # [2021-07-21] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2021-07-30] (Login) schedule note: Tighten Allure reporting around Login

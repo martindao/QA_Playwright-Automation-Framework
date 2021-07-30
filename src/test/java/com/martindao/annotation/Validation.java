@@ -13,3 +13,5 @@ import java.lang.annotation.*;
 @Regression
 @Tag("validation")
 public @interface Validation {}
+
+# [2021-07-30] (Checkout) schedule note: Document Playwright coverage for Checkout

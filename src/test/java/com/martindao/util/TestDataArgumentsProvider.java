@@ -32,3 +32,5 @@ public class TestDataArgumentsProvider implements ArgumentsProvider, AnnotationC
         return Stream.of(TestFixtureCsvLoader.load(clazz, fileName, id)).map(Arguments::of);
     }
 }
+
+# [2021-08-02] (Login) schedule note: Tighten Allure reporting around Login

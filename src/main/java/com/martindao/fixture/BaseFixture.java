@@ -14,3 +14,5 @@ public class BaseFixture {
     @Parsed(field = "Test Case ID", defaultNullRead = "")
     private String testCaseId;
 }
+
+# [2021-08-02] (Catalog) schedule note: Refactor fixtures for Catalog

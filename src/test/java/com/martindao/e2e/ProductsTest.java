@@ -71,3 +71,5 @@ public class ProductsTest extends BaseTest {
         assertThat(page).hasURL(fixture.getUrl());
     }
 }
+
+# [2021-08-02] (Login) schedule note: Tighten Allure reporting around Login

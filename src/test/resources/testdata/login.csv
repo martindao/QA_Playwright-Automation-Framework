@@ -11,3 +11,4 @@ TC-2,demo_username,demo_password,Epic sadface: Username and password do not matc
 TC-3,,demo_password,Epic sadface: Username is required
 TC-4,demo_username,,Epic sadface: Password is required
 TC-5,locked_out_user,secret_sauce,"Epic sadface: Sorry, this user has been locked out."
+# [2021-08-03] (Catalog) schedule note: Tighten Allure reporting around Catalog

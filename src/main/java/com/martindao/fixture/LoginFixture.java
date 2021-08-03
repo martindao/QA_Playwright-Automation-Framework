@@ -22,3 +22,5 @@ public class LoginFixture extends BaseFixture {
 }
 
 # [2021-07-22] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2021-08-03] (Login) schedule note: Refactor fixtures for Login

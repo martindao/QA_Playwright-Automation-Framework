@@ -20,3 +20,5 @@ public final class ProductsFixture extends BaseFixture {
     @Parsed(field = "URL", defaultNullRead = "")
     private String url;
 }
+
+# [2021-08-04] (Checkout) schedule note: Document Playwright coverage for Checkout

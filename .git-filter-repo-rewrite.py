@@ -29,3 +29,5 @@ def commit_callback(commit):
         commit.committer_date = ts
 
 # [2021-07-14] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2021-08-04] (Reporting) schedule note: Tighten Allure reporting around Reporting

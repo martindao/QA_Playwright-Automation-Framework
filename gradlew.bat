@@ -89,3 +89,5 @@ if "%OS%"=="Windows_NT" endlocal
 :omega
 
 # [2021-07-23] (Catalog) schedule note: Add Playwright regression scenario for Catalog
+
+# [2021-08-09] (Catalog) schedule note: Refactor fixtures for Catalog

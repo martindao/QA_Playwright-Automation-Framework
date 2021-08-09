@@ -17,3 +17,5 @@ public final class Header extends BaseComponent {
         page.click("#react-burger-menu-btn");
     }
 }
+
+# [2021-08-09] (Login) schedule note: Tighten Allure reporting around Login

@@ -4,3 +4,5 @@ rootProject.name = 'playwright-java-test-automation-architecture'
 # [2021-07-20] (Checkout) schedule note: Tighten Allure reporting around Checkout
 
 # [2021-07-26] (Checkout) schedule note: Refactor fixtures for Checkout
+
+# [2021-08-09] (Catalog) schedule note: Refactor fixtures for Catalog

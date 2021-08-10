@@ -19,3 +19,5 @@ public final class SideNavMenu extends BaseComponent {
 }
 
 # [2021-07-26] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2021-08-10] (Catalog) schedule note: Refactor fixtures for Catalog

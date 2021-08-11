@@ -30,3 +30,5 @@ public abstract class BasePage {
         Allure.attachment(stepName, new ByteArrayInputStream(captureScreenshot()));
     }
 }
+
+# [2021-08-11] (Reporting) schedule note: Refactor fixtures for Reporting

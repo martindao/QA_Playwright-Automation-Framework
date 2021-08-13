@@ -35,3 +35,5 @@ public final class ProductsPage extends BasePage {
 }
 
 # [2021-07-27] (Login) schedule note: Document Playwright coverage for Login
+
+# [2021-08-13] (Catalog) schedule note: Document Playwright coverage for Catalog

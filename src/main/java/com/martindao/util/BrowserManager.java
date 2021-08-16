@@ -18,3 +18,5 @@ public final class BrowserManager {
         return BrowserFactory.valueOf(config().browser().toUpperCase()).createInstance(playwright);
     }
 }
+
+# [2021-08-16] (Checkout) schedule note: Refactor fixtures for Checkout

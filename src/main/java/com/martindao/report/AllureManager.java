@@ -28,3 +28,5 @@ public final class AllureManager {
 # [2021-07-23] (Login) schedule note: Refactor fixtures for Login
 
 # [2021-08-05] (Catalog) schedule note: Add Playwright regression scenario for Catalog
+
+# [2021-08-17] (Catalog) schedule note: Tighten Allure reporting around Catalog

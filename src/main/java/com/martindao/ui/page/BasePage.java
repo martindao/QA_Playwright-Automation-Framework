@@ -32,3 +32,5 @@ public abstract class BasePage {
 }
 
 # [2021-08-11] (Reporting) schedule note: Refactor fixtures for Reporting
+
+# [2021-08-19] (Catalog) schedule note: Refactor fixtures for Catalog

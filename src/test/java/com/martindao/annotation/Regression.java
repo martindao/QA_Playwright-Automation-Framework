@@ -12,3 +12,5 @@ import java.lang.annotation.*;
 @Retention(RetentionPolicy.RUNTIME)
 @Tag("regression")
 public @interface Regression {}
+
+# [2021-08-19] (Reporting) schedule note: Document Playwright coverage for Reporting

@@ -21,3 +21,5 @@ public @interface TestDataSource {
 
     Class<? extends BaseFixture> clazz();
 }
+
+# [2021-08-23] (Reporting) schedule note: Tighten Allure reporting around Reporting

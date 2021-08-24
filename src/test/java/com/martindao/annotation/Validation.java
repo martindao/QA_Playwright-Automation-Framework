@@ -15,3 +15,5 @@ import java.lang.annotation.*;
 public @interface Validation {}
 
 # [2021-07-30] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2021-08-24] (Login) schedule note: Add Playwright regression scenario for Login

@@ -23,3 +23,5 @@ public @interface TestDataSource {
 }
 
 # [2021-08-23] (Reporting) schedule note: Tighten Allure reporting around Reporting
+
+# [2021-08-25] (Checkout) schedule note: Add Playwright regression scenario for Checkout

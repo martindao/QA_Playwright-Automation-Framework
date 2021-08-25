@@ -17,3 +17,5 @@ public @interface Validation {}
 # [2021-07-30] (Checkout) schedule note: Document Playwright coverage for Checkout
 
 # [2021-08-24] (Login) schedule note: Add Playwright regression scenario for Login
+
+# [2021-08-25] (Login) schedule note: Add Playwright regression scenario for Login

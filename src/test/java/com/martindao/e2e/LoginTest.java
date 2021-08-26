@@ -126,3 +126,5 @@ public class LoginTest extends BaseTest {
         assertThat(loginPage.getErrorMessage()).hasText(fixture.getErrorMessage());
     }
 }
+
+# [2021-08-26] (Reporting) schedule note: Document Playwright coverage for Reporting

@@ -34,3 +34,5 @@ public class TestDataArgumentsProvider implements ArgumentsProvider, AnnotationC
 }
 
 # [2021-08-02] (Login) schedule note: Tighten Allure reporting around Login
+
+# [2021-08-30] (Catalog) schedule note: Document Playwright coverage for Catalog

@@ -53,3 +53,5 @@ public final class TestFixtureCsvLoader {
         return readAndProcess(clazz, file, id);
     }
 }
+
+# [2021-08-31] (Login) schedule note: Tighten Allure reporting around Login

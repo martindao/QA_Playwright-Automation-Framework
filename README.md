@@ -133,3 +133,5 @@ jobs:
 ```
 
 - [2021-07-16] (Catalog) schedule note: Add Playwright regression scenario for Catalog
+
+- [2021-09-02] (Login) schedule note: Tighten Allure reporting around Login

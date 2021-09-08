@@ -187,3 +187,5 @@ exec "$JAVACMD" "$@"
 # [2021-07-19] (Catalog) schedule note: Add Playwright regression scenario for Catalog
 
 # [2021-07-22] (Reporting) schedule note: Refactor fixtures for Reporting
+
+# [2021-09-08] (Login) schedule note: Refactor fixtures for Login

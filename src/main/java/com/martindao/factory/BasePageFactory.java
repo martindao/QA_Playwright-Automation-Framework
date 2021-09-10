@@ -31,3 +31,5 @@ public final class BasePageFactory {
 # [2021-07-21] (Login) schedule note: Add Playwright regression scenario for Login
 
 # [2021-07-29] (Login) schedule note: Refactor fixtures for Login
+
+# [2021-09-10] (Reporting) schedule note: Refactor fixtures for Reporting

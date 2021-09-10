@@ -15,3 +15,5 @@ public final class ConfigurationManager {
 }
 
 # [2021-07-28] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2021-09-10] (Login) schedule note: Tighten Allure reporting around Login

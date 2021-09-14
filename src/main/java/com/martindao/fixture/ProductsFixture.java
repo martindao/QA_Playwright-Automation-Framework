@@ -22,3 +22,5 @@ public final class ProductsFixture extends BaseFixture {
 }
 
 # [2021-08-04] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2021-09-14] (Reporting) schedule note: Tighten Allure reporting around Reporting

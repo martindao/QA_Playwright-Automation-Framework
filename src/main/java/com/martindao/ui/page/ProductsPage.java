@@ -37,3 +37,5 @@ public final class ProductsPage extends BasePage {
 # [2021-07-27] (Login) schedule note: Document Playwright coverage for Login
 
 # [2021-08-13] (Catalog) schedule note: Document Playwright coverage for Catalog
+
+# [2021-09-17] (Checkout) schedule note: Tighten Allure reporting around Checkout

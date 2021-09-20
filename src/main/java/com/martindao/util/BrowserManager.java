@@ -22,3 +22,5 @@ public final class BrowserManager {
 # [2021-08-16] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2021-08-23] (Reporting) schedule note: Tighten Allure reporting around Reporting
+
+# [2021-09-20] (Checkout) schedule note: Refactor fixtures for Checkout

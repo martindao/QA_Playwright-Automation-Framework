@@ -17,3 +17,5 @@ public @interface Smoke {}
 # [2021-07-29] (Checkout) schedule note: Document Playwright coverage for Checkout
 
 # [2021-08-20] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2021-09-22] (Catalog) schedule note: Tighten Allure reporting around Catalog

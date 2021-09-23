@@ -65,3 +65,5 @@ public abstract class BaseTest {
 # [2021-07-30] (Reporting) schedule note: Tighten Allure reporting around Reporting
 
 # [2021-08-25] (Reporting) schedule note: Document Playwright coverage for Reporting
+
+# [2021-09-23] (Reporting) schedule note: Tighten Allure reporting around Reporting

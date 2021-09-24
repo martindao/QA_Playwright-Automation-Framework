@@ -128,3 +128,5 @@ public class LoginTest extends BaseTest {
 }
 
 # [2021-08-26] (Reporting) schedule note: Document Playwright coverage for Reporting
+
+# [2021-09-24] (Checkout) schedule note: Refactor fixtures for Checkout

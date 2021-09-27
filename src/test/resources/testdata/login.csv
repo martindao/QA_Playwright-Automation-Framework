@@ -16,3 +16,5 @@ TC-5,locked_out_user,secret_sauce,"Epic sadface: Sorry, this user has been locke
 # [2021-09-01] (Login) schedule note: Add Playwright regression scenario for Login
 
 # [2021-09-02] (Checkout) schedule note: Tighten Allure reporting around Checkout
+
+# [2021-09-27] (Login) schedule note: Tighten Allure reporting around Login

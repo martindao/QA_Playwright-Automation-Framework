@@ -1,3 +1,5 @@
 Test Case ID,Username,Password,URL
 TC-1,standard_user,secret_sauce,https://www.saucedemo.com/
 # [2021-09-01] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2021-09-28] (Reporting) schedule note: Add Playwright regression scenario for Reporting

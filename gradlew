@@ -189,3 +189,5 @@ exec "$JAVACMD" "$@"
 # [2021-07-22] (Reporting) schedule note: Refactor fixtures for Reporting
 
 # [2021-09-08] (Login) schedule note: Refactor fixtures for Login
+
+# [2021-10-01] (Catalog) schedule note: Refactor fixtures for Catalog

@@ -93,3 +93,5 @@ if "%OS%"=="Windows_NT" endlocal
 # [2021-08-09] (Catalog) schedule note: Refactor fixtures for Catalog
 
 # [2021-09-08] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2021-10-01] (Catalog) schedule note: Tighten Allure reporting around Catalog

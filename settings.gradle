@@ -8,3 +8,5 @@ rootProject.name = 'playwright-java-test-automation-architecture'
 # [2021-08-09] (Catalog) schedule note: Refactor fixtures for Catalog
 
 # [2021-09-09] (Catalog) schedule note: Add Playwright regression scenario for Catalog
+
+# [2021-10-01] (Catalog) schedule note: Add Playwright regression scenario for Catalog

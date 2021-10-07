@@ -21,3 +21,5 @@ public abstract class BaseComponent {
 # [2021-08-17] (Reporting) schedule note: Document Playwright coverage for Reporting
 
 # [2021-09-15] (Catalog) schedule note: Document Playwright coverage for Catalog
+
+# [2021-10-07] (Catalog) schedule note: Tighten Allure reporting around Catalog

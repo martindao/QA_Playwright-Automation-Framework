@@ -62,3 +62,5 @@ public final class LoginPage extends BasePage {
 # [2021-08-12] (Checkout) schedule note: Add Playwright regression scenario for Checkout
 
 # [2021-09-16] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2021-10-12] (Catalog) schedule note: Document Playwright coverage for Catalog

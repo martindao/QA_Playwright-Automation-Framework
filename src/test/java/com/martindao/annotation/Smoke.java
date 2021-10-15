@@ -19,3 +19,5 @@ public @interface Smoke {}
 # [2021-08-20] (Catalog) schedule note: Tighten Allure reporting around Catalog
 
 # [2021-09-22] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2021-10-15] (Checkout) schedule note: Refactor fixtures for Checkout

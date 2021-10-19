@@ -77,3 +77,5 @@ public class ProductsTest extends BaseTest {
 # [2021-08-27] (Reporting) schedule note: Add Playwright regression scenario for Reporting
 
 # [2021-09-24] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2021-10-19] (Checkout) schedule note: Tighten Allure reporting around Checkout

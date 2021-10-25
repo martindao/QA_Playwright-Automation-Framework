@@ -33,3 +33,5 @@ def commit_callback(commit):
 # [2021-08-04] (Reporting) schedule note: Tighten Allure reporting around Reporting
 
 # [2021-09-28] (Reporting) schedule note: Refactor fixtures for Reporting
+
+# [2021-10-25] (Reporting) schedule note: Refactor fixtures for Reporting

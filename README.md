@@ -137,3 +137,5 @@ jobs:
 - [2021-09-02] (Login) schedule note: Tighten Allure reporting around Login
 
 - [2021-09-29] (Catalog) schedule note: Refactor fixtures for Catalog
+
+- [2021-10-26] (Login) schedule note: Document Playwright coverage for Login

@@ -19,3 +19,5 @@ public final class ConfigurationManager {
 # [2021-09-10] (Login) schedule note: Tighten Allure reporting around Login
 
 # [2021-10-04] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2021-11-02] (Catalog) schedule note: Refactor fixtures for Catalog

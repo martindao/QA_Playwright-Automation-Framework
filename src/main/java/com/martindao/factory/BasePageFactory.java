@@ -35,3 +35,5 @@ public final class BasePageFactory {
 # [2021-09-10] (Reporting) schedule note: Refactor fixtures for Reporting
 
 # [2021-10-04] (Reporting) schedule note: Refactor fixtures for Reporting
+
+# [2021-11-02] (Login) schedule note: Refactor fixtures for Login

@@ -26,3 +26,5 @@ public final class ProductsFixture extends BaseFixture {
 # [2021-09-14] (Reporting) schedule note: Tighten Allure reporting around Reporting
 
 # [2021-10-06] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2021-11-05] (Catalog) schedule note: Tighten Allure reporting around Catalog

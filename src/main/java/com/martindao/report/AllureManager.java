@@ -34,3 +34,5 @@ public final class AllureManager {
 # [2021-09-15] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2021-10-06] (Reporting) schedule note: Document Playwright coverage for Reporting
+
+# [2021-11-08] (Catalog) schedule note: Refactor fixtures for Catalog

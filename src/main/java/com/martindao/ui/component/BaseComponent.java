@@ -23,3 +23,5 @@ public abstract class BaseComponent {
 # [2021-09-15] (Catalog) schedule note: Document Playwright coverage for Catalog
 
 # [2021-10-07] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2021-11-09] (Checkout) schedule note: Add Playwright regression scenario for Checkout

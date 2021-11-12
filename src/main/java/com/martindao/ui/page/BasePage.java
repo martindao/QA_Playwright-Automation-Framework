@@ -38,3 +38,5 @@ public abstract class BasePage {
 # [2021-09-16] (Catalog) schedule note: Tighten Allure reporting around Catalog
 
 # [2021-10-08] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2021-11-12] (Login) schedule note: Add Playwright regression scenario for Login

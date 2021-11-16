@@ -26,3 +26,5 @@ public final class BrowserManager {
 # [2021-09-20] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2021-10-13] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2021-11-16] (Checkout) schedule note: Add Playwright regression scenario for Checkout

@@ -29,3 +29,5 @@ public @interface TestDataSource {
 # [2021-09-22] (Login) schedule note: Document Playwright coverage for Login
 
 # [2021-10-18] (Login) schedule note: Tighten Allure reporting around Login
+
+# [2021-11-18] (Catalog) schedule note: Document Playwright coverage for Catalog

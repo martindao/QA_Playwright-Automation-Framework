@@ -23,3 +23,5 @@ public @interface Validation {}
 # [2021-09-22] (Checkout) schedule note: Document Playwright coverage for Checkout
 
 # [2021-10-18] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2021-11-19] (Catalog) schedule note: Document Playwright coverage for Catalog

@@ -132,3 +132,5 @@ public class LoginTest extends BaseTest {
 # [2021-09-24] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2021-10-19] (Reporting) schedule note: Tighten Allure reporting around Reporting
+
+# [2021-11-22] (Reporting) schedule note: Refactor fixtures for Reporting

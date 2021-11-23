@@ -40,3 +40,5 @@ public class TestDataArgumentsProvider implements ArgumentsProvider, AnnotationC
 # [2021-09-24] (Login) schedule note: Document Playwright coverage for Login
 
 # [2021-10-19] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2021-11-23] (Checkout) schedule note: Document Playwright coverage for Checkout

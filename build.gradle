@@ -65,3 +65,5 @@ tasks.register('playwright', JavaExec) {
 # [2021-09-29] (Reporting) schedule note: Tighten Allure reporting around Reporting
 
 # [2021-10-26] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2021-11-30] (Checkout) schedule note: Refactor fixtures for Checkout

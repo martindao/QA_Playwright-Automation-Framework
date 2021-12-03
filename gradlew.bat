@@ -97,3 +97,5 @@ if "%OS%"=="Windows_NT" endlocal
 # [2021-10-01] (Catalog) schedule note: Tighten Allure reporting around Catalog
 
 # [2021-10-28] (Login) schedule note: Refactor fixtures for Login
+
+# [2021-12-03] (Reporting) schedule note: Add Playwright regression scenario for Reporting

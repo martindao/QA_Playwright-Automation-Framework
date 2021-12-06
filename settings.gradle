@@ -12,3 +12,5 @@ rootProject.name = 'playwright-java-test-automation-architecture'
 # [2021-10-01] (Catalog) schedule note: Add Playwright regression scenario for Catalog
 
 # [2021-10-29] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2021-12-06] (Login) schedule note: Tighten Allure reporting around Login

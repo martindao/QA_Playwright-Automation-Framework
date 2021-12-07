@@ -37,3 +37,5 @@ public final class BasePageFactory {
 # [2021-10-04] (Reporting) schedule note: Refactor fixtures for Reporting
 
 # [2021-11-02] (Login) schedule note: Refactor fixtures for Login
+
+# [2021-12-07] (Catalog) schedule note: Tighten Allure reporting around Catalog

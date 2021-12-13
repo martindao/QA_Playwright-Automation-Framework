@@ -22,3 +22,5 @@ public class BaseFixture {
 # [2021-10-05] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2021-11-03] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2021-12-13] (Reporting) schedule note: Add Playwright regression scenario for Reporting

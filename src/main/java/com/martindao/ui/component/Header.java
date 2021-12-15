@@ -25,3 +25,5 @@ public final class Header extends BaseComponent {
 # [2021-10-08] (Catalog) schedule note: Document Playwright coverage for Catalog
 
 # [2021-11-09] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2021-12-15] (Reporting) schedule note: Add Playwright regression scenario for Reporting

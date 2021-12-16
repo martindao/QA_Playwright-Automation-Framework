@@ -66,3 +66,5 @@ public final class LoginPage extends BasePage {
 # [2021-10-12] (Catalog) schedule note: Document Playwright coverage for Catalog
 
 # [2021-11-15] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2021-12-16] (Reporting) schedule note: Refactor fixtures for Reporting

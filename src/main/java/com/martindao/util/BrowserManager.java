@@ -28,3 +28,5 @@ public final class BrowserManager {
 # [2021-10-13] (Checkout) schedule note: Add Playwright regression scenario for Checkout
 
 # [2021-11-16] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2021-12-16] (Login) schedule note: Document Playwright coverage for Login

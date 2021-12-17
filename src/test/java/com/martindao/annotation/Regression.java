@@ -22,3 +22,5 @@ public @interface Regression {}
 # [2021-10-15] (Login) schedule note: Refactor fixtures for Login
 
 # [2021-11-17] (Catalog) schedule note: Document Playwright coverage for Catalog
+
+# [2021-12-17] (Reporting) schedule note: Refactor fixtures for Reporting

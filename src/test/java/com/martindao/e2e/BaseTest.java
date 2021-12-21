@@ -71,3 +71,5 @@ public abstract class BaseTest {
 # [2021-10-18] (Checkout) schedule note: Add Playwright regression scenario for Checkout
 
 # [2021-11-19] (Login) schedule note: Document Playwright coverage for Login
+
+# [2021-12-21] (Catalog) schedule note: Tighten Allure reporting around Catalog

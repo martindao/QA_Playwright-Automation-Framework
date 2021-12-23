@@ -63,3 +63,5 @@ public final class TestFixtureCsvLoader {
 # [2021-10-21] (Reporting) schedule note: Tighten Allure reporting around Reporting
 
 # [2021-11-23] (Checkout) schedule note: Tighten Allure reporting around Checkout
+
+# [2021-12-23] (Checkout) schedule note: Add Playwright regression scenario for Checkout

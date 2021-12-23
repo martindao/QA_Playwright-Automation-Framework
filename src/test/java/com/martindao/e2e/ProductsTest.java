@@ -81,3 +81,5 @@ public class ProductsTest extends BaseTest {
 # [2021-10-19] (Checkout) schedule note: Tighten Allure reporting around Checkout
 
 # [2021-11-22] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2021-12-23] (Checkout) schedule note: Tighten Allure reporting around Checkout

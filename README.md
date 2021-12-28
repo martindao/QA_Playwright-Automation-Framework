@@ -141,3 +141,5 @@ jobs:
 - [2021-10-26] (Login) schedule note: Document Playwright coverage for Login
 
 - [2021-11-30] (Catalog) schedule note: Add Playwright regression scenario for Catalog
+
+- [2021-12-28] (Login) schedule note: Add Playwright regression scenario for Login

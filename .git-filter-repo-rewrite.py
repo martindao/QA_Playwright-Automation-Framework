@@ -37,3 +37,5 @@ def commit_callback(commit):
 # [2021-10-25] (Reporting) schedule note: Refactor fixtures for Reporting
 
 # [2021-11-29] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2021-12-28] (Checkout) schedule note: Refactor fixtures for Checkout

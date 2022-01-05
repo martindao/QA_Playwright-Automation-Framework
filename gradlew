@@ -195,3 +195,5 @@ exec "$JAVACMD" "$@"
 # [2021-10-27] (Catalog) schedule note: Tighten Allure reporting around Catalog
 
 # [2021-12-02] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2022-01-05] (Reporting) schedule note: Add Playwright regression scenario for Reporting

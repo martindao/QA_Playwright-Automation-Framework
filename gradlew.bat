@@ -99,3 +99,5 @@ if "%OS%"=="Windows_NT" endlocal
 # [2021-10-28] (Login) schedule note: Refactor fixtures for Login
 
 # [2021-12-03] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2022-01-07] (Checkout) schedule note: Refactor fixtures for Checkout

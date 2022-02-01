@@ -23,3 +23,5 @@ public final class ConfigurationManager {
 # [2021-11-02] (Catalog) schedule note: Refactor fixtures for Catalog
 
 # [2021-12-06] (Login) schedule note: Tighten Allure reporting around Login
+
+# [2022-02-01] (Reporting) schedule note: Add Playwright regression scenario for Reporting

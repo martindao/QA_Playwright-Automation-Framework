@@ -53,3 +53,5 @@ public enum BrowserFactory {
 # [2021-11-02] (Login) schedule note: Refactor fixtures for Login
 
 # [2021-12-08] (Login) schedule note: Add Playwright regression scenario for Login
+
+# [2022-02-01] (Checkout) schedule note: Tighten Allure reporting around Checkout

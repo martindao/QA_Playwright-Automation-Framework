@@ -27,3 +27,5 @@ public abstract class BaseComponent {
 # [2021-11-09] (Checkout) schedule note: Add Playwright regression scenario for Checkout
 
 # [2021-12-14] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2022-03-29] (Reporting) schedule note: Refactor fixtures for Reporting

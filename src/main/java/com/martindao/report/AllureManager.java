@@ -38,3 +38,5 @@ public final class AllureManager {
 # [2021-11-08] (Catalog) schedule note: Refactor fixtures for Catalog
 
 # [2021-12-14] (Checkout) schedule note: Tighten Allure reporting around Checkout
+
+# [2022-03-29] (Reporting) schedule note: Document Playwright coverage for Reporting

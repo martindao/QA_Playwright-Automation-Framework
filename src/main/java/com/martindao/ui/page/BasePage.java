@@ -42,3 +42,5 @@ public abstract class BasePage {
 # [2021-11-12] (Login) schedule note: Add Playwright regression scenario for Login
 
 # [2021-12-15] (Checkout) schedule note: Refactor fixtures for Checkout
+
+# [2022-04-06] (Login) schedule note: Refactor fixtures for Login

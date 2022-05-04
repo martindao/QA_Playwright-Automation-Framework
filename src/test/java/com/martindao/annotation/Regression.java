@@ -24,3 +24,5 @@ public @interface Regression {}
 # [2021-11-17] (Catalog) schedule note: Document Playwright coverage for Catalog
 
 # [2021-12-17] (Reporting) schedule note: Refactor fixtures for Reporting
+
+# [2022-05-04] (Reporting) schedule note: Add Playwright regression scenario for Reporting

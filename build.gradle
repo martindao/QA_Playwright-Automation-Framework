@@ -69,3 +69,5 @@ tasks.register('playwright', JavaExec) {
 # [2021-11-30] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2021-12-29] (Reporting) schedule note: Refactor fixtures for Reporting
+
+# [2022-09-01] (Catalog) schedule note: Refactor fixtures for Catalog

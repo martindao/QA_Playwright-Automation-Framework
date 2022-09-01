@@ -143,3 +143,5 @@ jobs:
 - [2021-11-30] (Catalog) schedule note: Add Playwright regression scenario for Catalog
 
 - [2021-12-28] (Login) schedule note: Add Playwright regression scenario for Login
+
+- [2022-09-01] (Login) schedule note: Add Playwright regression scenario for Login

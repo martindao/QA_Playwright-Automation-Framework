@@ -48,3 +48,5 @@ public interface Configuration extends Config {
 # [2021-12-06] (Reporting) schedule note: Document Playwright coverage for Reporting
 
 # [2022-01-07] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2022-09-08] (Checkout) schedule note: Document Playwright coverage for Checkout

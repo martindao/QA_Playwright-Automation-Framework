@@ -29,3 +29,5 @@ public final class Header extends BaseComponent {
 # [2021-12-15] (Reporting) schedule note: Add Playwright regression scenario for Reporting
 
 # [2022-03-29] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2022-09-13] (Login) schedule note: Refactor fixtures for Login

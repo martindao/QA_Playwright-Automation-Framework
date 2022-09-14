@@ -31,3 +31,5 @@ public final class SideNavMenu extends BaseComponent {
 # [2021-12-15] (Catalog) schedule note: Refactor fixtures for Catalog
 
 # [2022-04-06] (Catalog) schedule note: Document Playwright coverage for Catalog
+
+# [2022-09-14] (Login) schedule note: Tighten Allure reporting around Login

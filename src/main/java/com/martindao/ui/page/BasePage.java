@@ -44,3 +44,5 @@ public abstract class BasePage {
 # [2021-12-15] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2022-04-06] (Login) schedule note: Refactor fixtures for Login
+
+# [2022-09-14] (Login) schedule note: Tighten Allure reporting around Login

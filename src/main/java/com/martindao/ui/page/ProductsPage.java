@@ -47,3 +47,5 @@ public final class ProductsPage extends BasePage {
 # [2021-12-16] (Login) schedule note: Tighten Allure reporting around Login
 
 # [2022-04-29] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2022-09-15] (Checkout) schedule note: Refactor fixtures for Checkout

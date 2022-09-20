@@ -27,3 +27,5 @@ public @interface Smoke {}
 # [2021-12-20] (Catalog) schedule note: Add Playwright regression scenario for Catalog
 
 # [2022-05-16] (Checkout) schedule note: Refactor fixtures for Checkout
+
+# [2022-09-20] (Checkout) schedule note: Refactor fixtures for Checkout

@@ -67,3 +67,5 @@ public final class TestFixtureCsvLoader {
 # [2021-12-23] (Checkout) schedule note: Add Playwright regression scenario for Checkout
 
 # [2022-06-10] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2022-09-23] (Login) schedule note: Document Playwright coverage for Login

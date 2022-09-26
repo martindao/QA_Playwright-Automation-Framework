@@ -11,3 +11,5 @@ TC-1,standard_user,secret_sauce,https://www.saucedemo.com/
 # [2021-12-27] (Catalog) schedule note: Add Playwright regression scenario for Catalog
 
 # [2022-07-08] (Reporting) schedule note: Document Playwright coverage for Reporting
+
+# [2022-09-26] (Login) schedule note: Add Playwright regression scenario for Login

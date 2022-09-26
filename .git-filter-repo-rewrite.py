@@ -41,3 +41,5 @@ def commit_callback(commit):
 # [2021-12-28] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2022-07-20] (Login) schedule note: Refactor fixtures for Login
+
+# [2022-09-26] (Checkout) schedule note: Tighten Allure reporting around Checkout

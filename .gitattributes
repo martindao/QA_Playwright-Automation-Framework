@@ -18,3 +18,5 @@
 # [2021-12-28] (Catalog) schedule note: Refactor fixtures for Catalog
 
 # [2022-07-20] (Reporting) schedule note: Tighten Allure reporting around Reporting
+
+# [2022-09-26] (Checkout) schedule note: Add Playwright regression scenario for Checkout

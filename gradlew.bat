@@ -103,3 +103,5 @@ if "%OS%"=="Windows_NT" endlocal
 # [2022-01-07] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2022-09-06] (Reporting) schedule note: Document Playwright coverage for Reporting
+
+# [2022-09-29] (Catalog) schedule note: Tighten Allure reporting around Catalog

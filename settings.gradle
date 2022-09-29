@@ -18,3 +18,5 @@ rootProject.name = 'playwright-java-test-automation-architecture'
 # [2022-01-07] (Reporting) schedule note: Document Playwright coverage for Reporting
 
 # [2022-09-07] (Reporting) schedule note: Tighten Allure reporting around Reporting
+
+# [2022-09-29] (Checkout) schedule note: Tighten Allure reporting around Checkout

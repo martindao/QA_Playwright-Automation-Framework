@@ -27,3 +27,5 @@ public final class ConfigurationManager {
 # [2022-02-01] (Reporting) schedule note: Add Playwright regression scenario for Reporting
 
 # [2022-09-08] (Login) schedule note: Add Playwright regression scenario for Login
+
+# [2022-09-30] (Login) schedule note: Document Playwright coverage for Login

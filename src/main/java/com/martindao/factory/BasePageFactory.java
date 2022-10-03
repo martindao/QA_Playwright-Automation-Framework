@@ -43,3 +43,5 @@ public final class BasePageFactory {
 # [2022-02-01] (Catalog) schedule note: Tighten Allure reporting around Catalog
 
 # [2022-09-08] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2022-10-03] (Login) schedule note: Refactor fixtures for Login

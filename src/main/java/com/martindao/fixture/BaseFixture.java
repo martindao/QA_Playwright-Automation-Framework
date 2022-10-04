@@ -28,3 +28,5 @@ public class BaseFixture {
 # [2022-03-01] (Checkout) schedule note: Tighten Allure reporting around Checkout
 
 # [2022-09-09] (Checkout) schedule note: Add Playwright regression scenario for Checkout
+
+# [2022-10-04] (Reporting) schedule note: Tighten Allure reporting around Reporting

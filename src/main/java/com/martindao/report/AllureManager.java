@@ -42,3 +42,5 @@ public final class AllureManager {
 # [2022-03-29] (Reporting) schedule note: Document Playwright coverage for Reporting
 
 # [2022-09-12] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2022-10-05] (Reporting) schedule note: Tighten Allure reporting around Reporting

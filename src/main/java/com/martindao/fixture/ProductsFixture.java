@@ -34,3 +34,5 @@ public final class ProductsFixture extends BaseFixture {
 # [2022-03-08] (Login) schedule note: Document Playwright coverage for Login
 
 # [2022-09-12] (Login) schedule note: Refactor fixtures for Login
+
+# [2022-10-05] (Reporting) schedule note: Document Playwright coverage for Reporting

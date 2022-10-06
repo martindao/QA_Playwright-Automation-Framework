@@ -31,3 +31,5 @@ public abstract class BaseComponent {
 # [2022-03-29] (Reporting) schedule note: Refactor fixtures for Reporting
 
 # [2022-09-12] (Login) schedule note: Document Playwright coverage for Login
+
+# [2022-10-06] (Catalog) schedule note: Document Playwright coverage for Catalog

@@ -49,3 +49,5 @@ public final class ProductsPage extends BasePage {
 # [2022-04-29] (Reporting) schedule note: Add Playwright regression scenario for Reporting
 
 # [2022-09-15] (Checkout) schedule note: Refactor fixtures for Checkout
+
+# [2022-10-11] (Catalog) schedule note: Refactor fixtures for Catalog

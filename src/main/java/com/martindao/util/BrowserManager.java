@@ -34,3 +34,5 @@ public final class BrowserManager {
 # [2022-04-29] (Login) schedule note: Document Playwright coverage for Login
 
 # [2022-09-16] (Checkout) schedule note: Refactor fixtures for Checkout
+
+# [2022-10-12] (Login) schedule note: Refactor fixtures for Login

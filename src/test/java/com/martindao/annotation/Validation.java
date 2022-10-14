@@ -31,3 +31,5 @@ public @interface Validation {}
 # [2022-05-17] (Reporting) schedule note: Add Playwright regression scenario for Reporting
 
 # [2022-09-21] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2022-10-14] (Checkout) schedule note: Refactor fixtures for Checkout

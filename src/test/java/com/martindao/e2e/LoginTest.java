@@ -140,3 +140,5 @@ public class LoginTest extends BaseTest {
 # [2022-05-20] (Catalog) schedule note: Refactor fixtures for Catalog
 
 # [2022-09-22] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2022-10-14] (Catalog) schedule note: Tighten Allure reporting around Catalog

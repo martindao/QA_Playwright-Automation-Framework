@@ -48,3 +48,5 @@ public class TestDataArgumentsProvider implements ArgumentsProvider, AnnotationC
 # [2022-06-10] (Catalog) schedule note: Tighten Allure reporting around Catalog
 
 # [2022-09-22] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2022-10-17] (Reporting) schedule note: Add Playwright regression scenario for Reporting

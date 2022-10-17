@@ -87,3 +87,5 @@ public class ProductsTest extends BaseTest {
 # [2022-06-03] (Login) schedule note: Tighten Allure reporting around Login
 
 # [2022-09-22] (Reporting) schedule note: Refactor fixtures for Reporting
+
+# [2022-10-17] (Catalog) schedule note: Add Playwright regression scenario for Catalog

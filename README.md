@@ -147,3 +147,5 @@ jobs:
 - [2022-09-01] (Login) schedule note: Add Playwright regression scenario for Login
 
 - [2022-09-27] (Checkout) schedule note: Tighten Allure reporting around Checkout
+
+- [2022-10-20] (Catalog) schedule note: Tighten Allure reporting around Catalog

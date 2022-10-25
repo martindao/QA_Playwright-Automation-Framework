@@ -52,3 +52,5 @@ public interface Configuration extends Config {
 # [2022-09-08] (Checkout) schedule note: Document Playwright coverage for Checkout
 
 # [2022-09-30] (Login) schedule note: Refactor fixtures for Login
+
+# [2022-10-25] (Login) schedule note: Refactor fixtures for Login

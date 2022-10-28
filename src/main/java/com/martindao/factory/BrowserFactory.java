@@ -59,3 +59,5 @@ public enum BrowserFactory {
 # [2022-09-09] (Reporting) schedule note: Refactor fixtures for Reporting
 
 # [2022-10-04] (Login) schedule note: Refactor fixtures for Login
+
+# [2022-10-28] (Login) schedule note: Tighten Allure reporting around Login

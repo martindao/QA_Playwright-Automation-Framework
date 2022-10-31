@@ -36,3 +36,5 @@ public final class ProductsFixture extends BaseFixture {
 # [2022-09-12] (Login) schedule note: Refactor fixtures for Login
 
 # [2022-10-05] (Reporting) schedule note: Document Playwright coverage for Reporting
+
+# [2022-10-31] (Checkout) schedule note: Tighten Allure reporting around Checkout

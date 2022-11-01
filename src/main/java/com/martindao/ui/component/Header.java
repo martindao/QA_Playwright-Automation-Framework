@@ -33,3 +33,5 @@ public final class Header extends BaseComponent {
 # [2022-09-13] (Login) schedule note: Refactor fixtures for Login
 
 # [2022-10-06] (Reporting) schedule note: Tighten Allure reporting around Reporting
+
+# [2022-11-01] (Reporting) schedule note: Refactor fixtures for Reporting

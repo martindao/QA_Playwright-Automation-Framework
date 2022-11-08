@@ -30,3 +30,5 @@ public @interface Regression {}
 # [2022-09-20] (Login) schedule note: Document Playwright coverage for Login
 
 # [2022-10-13] (Checkout) schedule note: Refactor fixtures for Checkout
+
+# [2022-11-08] (Catalog) schedule note: Add Playwright regression scenario for Catalog

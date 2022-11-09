@@ -31,3 +31,5 @@ public @interface Smoke {}
 # [2022-09-20] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2022-10-13] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2022-11-09] (Checkout) schedule note: Document Playwright coverage for Checkout

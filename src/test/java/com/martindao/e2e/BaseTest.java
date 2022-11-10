@@ -79,3 +79,5 @@ public abstract class BaseTest {
 # [2022-09-21] (Login) schedule note: Refactor fixtures for Login
 
 # [2022-10-14] (Catalog) schedule note: Tighten Allure reporting around Catalog
+
+# [2022-11-10] (Login) schedule note: Add Playwright regression scenario for Login

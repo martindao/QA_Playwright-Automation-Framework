@@ -203,3 +203,5 @@ exec "$JAVACMD" "$@"
 # [2022-09-29] (Reporting) schedule note: Refactor fixtures for Reporting
 
 # [2022-10-21] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2022-11-23] (Reporting) schedule note: Tighten Allure reporting around Reporting

@@ -107,3 +107,5 @@ if "%OS%"=="Windows_NT" endlocal
 # [2022-09-29] (Catalog) schedule note: Tighten Allure reporting around Catalog
 
 # [2022-10-24] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2022-11-25] (Login) schedule note: Add Playwright regression scenario for Login

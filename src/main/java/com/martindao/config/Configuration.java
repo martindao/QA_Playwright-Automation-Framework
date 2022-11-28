@@ -54,3 +54,5 @@ public interface Configuration extends Config {
 # [2022-09-30] (Login) schedule note: Refactor fixtures for Login
 
 # [2022-10-25] (Login) schedule note: Refactor fixtures for Login
+
+# [2022-11-28] (Login) schedule note: Add Playwright regression scenario for Login

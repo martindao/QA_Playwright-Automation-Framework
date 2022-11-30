@@ -40,3 +40,5 @@ public class LoginFixture extends BaseFixture {
 # [2022-10-04] (Reporting) schedule note: Document Playwright coverage for Reporting
 
 # [2022-10-28] (Login) schedule note: Tighten Allure reporting around Login
+
+# [2022-11-30] (Catalog) schedule note: Tighten Allure reporting around Catalog

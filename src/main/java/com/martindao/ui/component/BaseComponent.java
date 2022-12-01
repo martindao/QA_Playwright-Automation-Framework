@@ -35,3 +35,5 @@ public abstract class BaseComponent {
 # [2022-10-06] (Catalog) schedule note: Document Playwright coverage for Catalog
 
 # [2022-10-31] (Login) schedule note: Add Playwright regression scenario for Login
+
+# [2022-12-01] (Login) schedule note: Add Playwright regression scenario for Login

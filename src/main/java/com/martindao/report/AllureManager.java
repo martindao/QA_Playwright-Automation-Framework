@@ -46,3 +46,5 @@ public final class AllureManager {
 # [2022-10-05] (Reporting) schedule note: Tighten Allure reporting around Reporting
 
 # [2022-10-31] (Checkout) schedule note: Refactor fixtures for Checkout
+
+# [2022-12-01] (Login) schedule note: Add Playwright regression scenario for Login

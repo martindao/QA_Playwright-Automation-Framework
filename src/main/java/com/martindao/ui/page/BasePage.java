@@ -50,3 +50,5 @@ public abstract class BasePage {
 # [2022-10-07] (Login) schedule note: Add Playwright regression scenario for Login
 
 # [2022-11-02] (Checkout) schedule note: Refactor fixtures for Checkout
+
+# [2022-12-06] (Checkout) schedule note: Tighten Allure reporting around Checkout

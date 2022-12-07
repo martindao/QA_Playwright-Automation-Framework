@@ -53,3 +53,5 @@ public final class ProductsPage extends BasePage {
 # [2022-10-11] (Catalog) schedule note: Refactor fixtures for Catalog
 
 # [2022-11-03] (Catalog) schedule note: Refactor fixtures for Catalog
+
+# [2022-12-07] (Catalog) schedule note: Document Playwright coverage for Catalog

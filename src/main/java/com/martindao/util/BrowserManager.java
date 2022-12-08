@@ -38,3 +38,5 @@ public final class BrowserManager {
 # [2022-10-12] (Login) schedule note: Refactor fixtures for Login
 
 # [2022-11-04] (Reporting) schedule note: Refactor fixtures for Reporting
+
+# [2022-12-08] (Login) schedule note: Refactor fixtures for Login

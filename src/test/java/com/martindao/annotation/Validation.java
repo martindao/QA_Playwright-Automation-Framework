@@ -35,3 +35,5 @@ public @interface Validation {}
 # [2022-10-14] (Checkout) schedule note: Refactor fixtures for Checkout
 
 # [2022-11-10] (Checkout) schedule note: Tighten Allure reporting around Checkout
+
+# [2022-12-12] (Catalog) schedule note: Refactor fixtures for Catalog

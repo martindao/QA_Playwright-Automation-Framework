@@ -41,3 +41,5 @@ public @interface TestDataSource {
 # [2022-10-13] (Reporting) schedule note: Tighten Allure reporting around Reporting
 
 # [2022-11-09] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2022-12-12] (Login) schedule note: Refactor fixtures for Login

@@ -52,3 +52,5 @@ public class TestDataArgumentsProvider implements ArgumentsProvider, AnnotationC
 # [2022-10-17] (Reporting) schedule note: Add Playwright regression scenario for Reporting
 
 # [2022-11-16] (Reporting) schedule note: Tighten Allure reporting around Reporting
+
+# [2022-12-14] (Reporting) schedule note: Document Playwright coverage for Reporting

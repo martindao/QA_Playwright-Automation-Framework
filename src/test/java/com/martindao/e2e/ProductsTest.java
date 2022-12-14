@@ -91,3 +91,5 @@ public class ProductsTest extends BaseTest {
 # [2022-10-17] (Catalog) schedule note: Add Playwright regression scenario for Catalog
 
 # [2022-11-15] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2022-12-14] (Reporting) schedule note: Document Playwright coverage for Reporting

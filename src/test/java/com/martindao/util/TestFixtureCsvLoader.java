@@ -73,3 +73,5 @@ public final class TestFixtureCsvLoader {
 # [2022-10-17] (Reporting) schedule note: Tighten Allure reporting around Reporting
 
 # [2022-11-17] (Reporting) schedule note: Add Playwright regression scenario for Reporting
+
+# [2022-12-15] (Catalog) schedule note: Document Playwright coverage for Catalog

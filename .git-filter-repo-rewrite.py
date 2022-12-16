@@ -47,3 +47,5 @@ def commit_callback(commit):
 # [2022-10-19] (Login) schedule note: Refactor fixtures for Login
 
 # [2022-11-21] (Checkout) schedule note: Document Playwright coverage for Checkout
+
+# [2022-12-16] (Checkout) schedule note: Add Playwright regression scenario for Checkout

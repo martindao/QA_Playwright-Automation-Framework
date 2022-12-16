@@ -17,3 +17,5 @@ TC-1,standard_user,secret_sauce,https://www.saucedemo.com/
 # [2022-10-19] (Reporting) schedule note: Refactor fixtures for Reporting
 
 # [2022-11-18] (Login) schedule note: Refactor fixtures for Login
+
+# [2022-12-16] (Checkout) schedule note: Tighten Allure reporting around Checkout

@@ -151,3 +151,5 @@ jobs:
 - [2022-10-20] (Catalog) schedule note: Tighten Allure reporting around Catalog
 
 - [2022-11-22] (Login) schedule note: Add Playwright regression scenario for Login
+
+- [2022-12-19] (Reporting) schedule note: Tighten Allure reporting around Reporting

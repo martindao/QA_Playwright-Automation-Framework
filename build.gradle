@@ -77,3 +77,5 @@ tasks.register('playwright', JavaExec) {
 # [2022-10-20] (Reporting) schedule note: Document Playwright coverage for Reporting
 
 # [2022-11-22] (Catalog) schedule note: Document Playwright coverage for Catalog
+
+# [2022-12-20] (Checkout) schedule note: Refactor fixtures for Checkout

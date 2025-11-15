@@ -1,0 +1,57 @@
+plugins {
+    id 'java'
+    id 'io.qameta.allure' version '2.11.2'
+}
+
+group 'com.martindao'
+version '1.0-SNAPSHOT'
+
+configurations {
+    agent {
+        canBeResolved = true
+        canBeConsumed = true
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    agent "org.aspectj:aspectjweaver:1.9.24"
+
+    implementation 'com.microsoft.playwright:playwright:1.52.0'
+    implementation 'org.aeonbits.owner:owner:1.0.12'
+    implementation 'com.univocity:univocity-parsers:2.9.1'
+    implementation 'io.qameta.allure:allure-junit5:2.29.1'
+    implementation 'com.github.automatedowl:allure-environment-writer:1.0.0'
+    implementation 'org.apache.commons:commons-lang3:3.14.0'
+    implementation 'org.slf4j:slf4j-api:2.0.13'
+
+    compileOnly 'org.projectlombok:lombok:1.18.38'
+    annotationProcessor 'org.projectlombok:lombok:1.18.38'
+    testCompileOnly 'org.projectlombok:lombok:1.18.38'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.38'
+
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testImplementation 'io.github.artsok:rerunner-jupiter:2.1.6'
+    testImplementation 'org.slf4j:slf4j-simple:2.0.13'
+}
+
+test {
+    ignoreFailures = true
+    systemProperties = System.getProperties().collectEntries { k, v -> [(k.toString()): v] }
+    def group = System.getProperty('group', 'regression')
+
+    useJUnitPlatform {
+        includeTags group
+    }
+
+    jvmArgs = ["-javaagent:${configurations.agent.singleFile}"]
+}
+
+tasks.register('playwright', JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'com.microsoft.playwright.CLI'
+}
